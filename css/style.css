@@ -1,0 +1,250 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.offer .wrapper
+{
+	width:80%;
+    margin:auto; 
+}
+.service .wrapper
+{
+	 width:80%;
+     margin:auto; 
+}
+.website .wrapper
+{
+	  width:80%;
+     margin:auto;
+}
+.portfolio .wrapper
+{
+	 width:80%;
+     margin:auto;
+}
+.click .wrapper
+{
+	 width:80%;
+     margin:auto;
+}
+.team .wrapper
+{
+	  width:80%;
+     margin:auto;
+}
+.header
+{
+	background-color:paleturquoise;
+    height:654px;	
+}
+.header .header-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.header .header-fc .header-logo
+{
+	background-color:plum;
+	width:500px;
+	height:129px;
+	margin-top:220px;
+}
+ .header .header-fc .header-navi
+{
+	background-color:palegreen;
+	width:117px;
+	height:64px;
+	margin-top:100px;
+}
+.offer
+{
+	 background-color:silver;
+    height:427px;	
+}
+.offer .offer-fc
+{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-between; 
+	align-items:center;
+}
+.offer .offer-fc .offertext
+{
+	text-align:center;	 
+	margin-top:100px	
+}
+.offer .offer-fc .offerbox
+{
+	background-color:plum;
+	width:117px;
+	height:64px;
+	margin-top:100px;	
+}
+.service
+{
+	background-color:paleturquoise;
+	height:550px;	
+}	
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.service .service-fc .head
+{
+	width:100%;
+	text-align:center;
+	margin-top:100px;
+
+}
+.service .service-fc .boxa
+{
+	background-color:pink;
+    width:189px;
+	height:160px;
+	margin-top:150px	
+}
+.service .service-fc .boxb
+{
+	background-color:grey;	
+	width:189px;
+	height:160px;
+	margin-top:150px	
+}
+.service .service-fc .boxc
+{
+	background-color:teal;
+	width:189px;
+	height:160px;
+	margin-top:150px	
+}
+.service .service-fc .boxd
+{
+	background-color:slategray;
+	width:189px;
+	height:160px;
+	margin-top:150px	
+}
+.website
+{
+	background-color:palegreen;
+	height:658px;
+} 
+.website .website-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+}
+.website .website-fc .webtext
+{
+	width:100%;
+	text-align:center;
+	margin-top:200px;
+}
+.website .website-fc .webdown
+{
+	background-color:plum;
+	height:66px;
+	width:191px;
+	margin-top:200px;
+}
+.portfolio
+{
+	background-color:grey;
+	height:1059px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;	
+	margin-top:160px;
+}
+.portfolio .portfolio-fc .boxa
+{
+	background-color:lightblue;
+	height:350px;
+	width:500px;
+}
+.portfolio .portfolio-fc .boxb
+{
+	background-color:steelblue;
+	height:350px;
+	width:500px;
+}
+.portfolio .portfolio-fc .boxc
+{
+	background-color:pink;
+	height:350px;
+	width:500px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	background-color:lightskyblue;
+	height:350px;
+	width:500px;
+	margin-bottom:60px;	
+}
+.click
+{
+	background-color:rgb(29,128,159);
+	height:368px;
+}
+.click .click-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.click .click-fc .clickme
+{
+	background-color:plum;
+	height:66px;
+	width:143px;
+	margin-top:150px;
+}
+.click .click-fc .lookatme
+{
+	background-color:plum;
+	height:66px;
+	width:143px;
+	margin-top:150px;	
+}
+.team
+{
+	background-color:powderblue;
+	height:296px;
+}
+.team .team-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.team .team-fc .fb
+{
+	background-color:purple;
+	height:66px;
+	width:67px;
+	margin-top:100px;
+}
+.team .team-fc .twit
+{
+	background-color:pink;
+	height:66px;
+	width:67px;
+	margin-top:100px;
+}
+.team .team-fc .insta
+{
+	background-color:purple;
+	height:66px;
+	width:67px;
+	margin-top:100px;
+}
